@@ -6,3 +6,9 @@ data/
 *.sqlite3
 backups/
 tsconfig.tsbuildinfo
+
+# ── ASI Engine ────────────────────────────────────────────────────────────────
+patches/
+canary_*.py
+bare_metal_fabric.bin
+enterprise_workload.py
