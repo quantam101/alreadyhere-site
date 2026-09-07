@@ -35,7 +35,7 @@ jobs:
         run: npm run build
         env:
           NEXT_PUBLIC_SITE_URL: https://www.alreadyherellc.com
-          NEXT_PUBLIC_COMMAND_CENTER_URL: https://already-here-dashboard-git-main-already-here-llc-s-projects.vercel.app
+          NEXT_PUBLIC_COMMAND_CENTER_URL: https://app.alreadyherellc.com
 
   runtime-tests:
     name: Runtime tests
